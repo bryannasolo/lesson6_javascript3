@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This assignment gave us an even further in depth look at how javascript works. Especially in the sense of images and sources.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bryannasolo.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/
 
 ### Lessons Learned in the Assignment:
 1. (One lesson learend is that of BOMS or Browser Object Models. This is what shows everything that is seen on a browser.)
